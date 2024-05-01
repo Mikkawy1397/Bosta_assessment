@@ -1,0 +1,16 @@
+{
+  "CANCELLED": "تم الإلغاء الشحنة",
+  "DELIVERED": "تم تسليم الشحنة",
+  "DELIVERED_TO_SENDER": "لم يتم تسليم الشحنة",
+ "Shipment Created":"تم إنشاء الشحنة",
+ "Shipment Received from Supplies":"تم استلام الشحنة من التاجر",
+ "Out for Delivery":"الشحنة خرجت للتسليم",
+ "Delivered":"تم التسليم",
+ "Cancelled from seller":"تم الإلغاء الشحنة من التاجر",
+ "Client not responding":"العميل غير موجود فى العنوان",
+ "Shipment Details":"تفاصيل الشحنة",
+ "Nasr city":"مدينة نصر",
+ "Shipment Address":"عنوان التسليم",
+ "Do you Have any problems with the shipment":"هل تواجه مشاكل فى الشحنتك ؟؟",
+ "Complaint":"ابلاغ عن مشكلة"
+}

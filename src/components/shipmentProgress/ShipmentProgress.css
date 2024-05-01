@@ -1,0 +1,26 @@
+.shipmentProgress_wrapper{
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e6e6e6e6 ;
+    border-radius: 5px;
+    padding: 10px;
+}
+.shipmentProgress_wrapper .progress_title{
+    font-family: "Cairo", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    color:gray;
+}
+.shipmentProgress_wrapper .progress_status {
+    font-family: "Cairo", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 10px 0px;
+    color: black;
+}
+
+.border_top{
+  border-top-width: 0px!important;
+}

@@ -1,0 +1,107 @@
+
+.header_wrapper .img-container{
+max-width: 130px;
+
+}
+.header_wrapper .menu-items a{
+    color: #000;
+font-family: "Cairo", sans-serif;
+font-size: 18px;
+font-weight: 700;
+}
+.header_wrapper .menu-items .menu_item{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.header_wrapper h4{
+    color: #000;
+        font-family: "Cairo", sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        margin: 0px;
+}
+.color_red{
+    color: red !important;
+}
+.header_wrapper button{
+    border-style: none;
+    background-color: transparent;
+}
+/* .padding_only{
+padding: 0px 15px;
+}
+.header_wrapper .border_right{
+ 
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+    border-color: lightgray;
+
+} */
+.header_wrapper .divider{
+   min-height: 100%;
+   width: 1px;
+   background-color: lightgray;
+}
+.track_container{
+    position: relative;
+}
+.shipment_search{
+    position: absolute;
+    right: -100px;
+    bottom: -120px;
+    width: 70%;
+    padding: 12px;
+    background-color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e6e6e6e6;
+}
+.shipment_search h3{
+    font-family: "Cairo", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    color: black;
+}
+.shipment_search input{
+    width: 70% !important;
+   height: 35px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-left-width:0px ;
+    border-color: #e6e6e6e6;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    padding: 0 !important;
+}
+.shipment_search .search_icon{
+  height: 100%;
+  width: 30% !important;
+    color: white;
+    border-style:none ;
+    border-radius: 5px;
+    background-color: red;
+   border-style: solid;
+border-width: 1px;
+ border-color: #e6e6e6e6;
+    padding: 0!important;
+
+}
+@media (max-width: 768px) {
+.shipment_search {
+        position: absolute;
+        right: 50px;
+        bottom: -120px;
+        width: 70%;
+        padding: 12px;
+        background-color: white;
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+        border-radius: 5px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #e6e6e6e6;
+    } 
+}

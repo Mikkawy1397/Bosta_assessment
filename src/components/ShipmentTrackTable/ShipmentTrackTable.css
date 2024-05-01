@@ -1,0 +1,46 @@
+.shipmentTrackTable_wrapper h3{
+    font-family: "Cairo", sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+       margin-bottom: 20px;
+        color: black;
+}
+.shipmentTrackTable_wrapper table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.shipmentTrackTable_wrapper td
+ {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-family: "Cairo", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+padding: 12px;
+        color: black;
+}
+.shipmentTrackTable_wrapper th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-family: "Cairo", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: lightgray;
+}
+
+/* .shipmentTrackTable_wrapper tr:nth-child(even) {
+    background-color: #dddddd;
+} */
+.w-30{
+    width: 40% !important;
+}   
+.table_header{
+    background-color: #fbf7f7e6;
+}
+.text_center{
+    text-align: center !important  }

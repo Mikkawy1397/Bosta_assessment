@@ -1,0 +1,48 @@
+.shipmentAddress_wrapper h3 {
+    font-family: "Cairo", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: black;
+}
+.shipmentAddress_card{
+    padding: 15px;
+    border-radius:7px ;
+    background-color: #fbf7f7e6;
+    margin-bottom: 10px;
+}
+.shipmentAddress_card h3{
+    font-family: "Cairo", sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 20px;
+        color: black;
+}
+.complain_card {
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #fbf7f7e6;
+    margin-bottom: 10px;
+}
+.complain_card h3 {
+    font-family: "Cairo", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+
+    color: black;
+}   
+.complainBtn{
+    background-color: red;
+    display: flex  ;
+    justify-content: center;    
+    padding: 7px 7px;
+    font-family: "Cairo", sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 20px;
+        color: white;
+        border-style: none;
+        border-radius: 10px;
+        width: 100%;
+    
+}
